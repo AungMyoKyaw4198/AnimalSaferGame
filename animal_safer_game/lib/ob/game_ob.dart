@@ -1,0 +1,3 @@
+class GameOb{
+  // int currentLevel;
+}
